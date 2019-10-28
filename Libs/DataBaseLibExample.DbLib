@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=77|Library Path0=97|Footprint Path0=98|Design Item ID0=98|Footprint Ref0=92|PartNum0=119|Package0=103|Value0=52|Номинал0=72|Voltage0=63|Tolerance0=72|Manufacturer0=99|Comment0=72|Designator0=80
+BrowserOrder_Visible=Library Ref0=77|Library Path0=97|Footprint Path0=98|Footprint Ref0=92|PartNum0=119|Package0=103|Value0=52|Номинал0=72|Voltage0=63|Tolerance0=72|Manufacturer0=99|Comment0=72|F130=41
 [FieldMap1]
 Options=FieldName=Components$.Library Ref|TableNameOnly=Components$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -36,6 +36,4 @@ Options=FieldName=Components$.Library Path|TableNameOnly=Components$|FieldNameOn
 [FieldMap3]
 Options=FieldName=Components$.Footprint Path|TableNameOnly=Components$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap4]
-Options=FieldName=Components$.Design Item ID|TableNameOnly=Components$|FieldNameOnly=Design Item ID|FieldType=0|ParameterName=Design Item ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap5]
 Options=FieldName=Components$.Footprint Ref|TableNameOnly=Components$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
