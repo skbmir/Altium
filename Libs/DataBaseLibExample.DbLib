@@ -26,7 +26,7 @@ TableName=Components$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
+BrowserOrder_Sorting=PartNum0=Up
 BrowserOrder_Grouping=
 BrowserOrder_Visible=Library Ref0=77|Library Path0=97|Footprint Path0=98|Footprint Ref0=92|PartNum0=119|Package0=103|Value0=52|Номинал0=72|Voltage0=63|Tolerance0=72|Manufacturer0=99|Comment0=72|F130=41
 [FieldMap1]
